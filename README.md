@@ -1,5 +1,5 @@
-# Module1
-homework assignment module 1
+# Touch Bistro - Point of Sale (POS) Case Study
+
 Case Study : TouchBistro
 ![logo](Touchbistro_HelpSite_Logo.png)
 Touch Bistro is in the Point of Sale (POS) business domain. They provide an IPad pos solution that assists taking payment processing, menu and staff management, inventory control, accounting, reporting and customer loyalty.
